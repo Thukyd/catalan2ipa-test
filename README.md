@@ -1,2 +1,2 @@
 # catalan2ipa-test
-Testing for using catalan2ipa for source of catalan pronounciation with a castellano MS STT voice. 
+Trying out catalan2ipa as a pronounciation source for Azure TTS
